@@ -1,3 +1,3 @@
 # nlp_ner
 
-# Respositoria mi Tesis de Maestría en NLP 
+# Respositorio mi Tesis de Maestría en NLP en la Universidad Tecnológica Nacional - Regional Paraná.
